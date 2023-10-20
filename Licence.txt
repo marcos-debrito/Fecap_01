@@ -1,0 +1,7 @@
+https://chooser-beta.creativecommons.org/
+
+Licence: CC BY 4.0
+
+Colocar os dados da atribuição, ao finalizar clicamos em HTML -> Full licence -> Copy
+
+e então, colocamos no read.me do GitHub - na parte de licenças
